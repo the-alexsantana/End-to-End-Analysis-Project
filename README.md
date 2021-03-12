@@ -6,6 +6,10 @@ Scenario
 
 - Produce visualizations and analysis in Python.
 
+Process
+
+- 
+
 Deliverables
 
 - A one-page proposal.
