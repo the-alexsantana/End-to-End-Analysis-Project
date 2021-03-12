@@ -6,10 +6,6 @@ Scenario
 
 - Produce visualizations and analysis in Python.
 
-Process
-
-- 
-
 Deliverables
 
 - A one-page proposal.
@@ -17,6 +13,10 @@ Deliverables
 - A Jupyter Notebook that tells a compelling story about your data.
 
 - A 5-10 minute presentation of your findings.
+
+Process
+
+- 
 
 Key Takeaways
 
