@@ -13,3 +13,11 @@ Deliverables
 - A Jupyter Notebook that tells a compelling story about your data.
 
 - A 5-10 minute presentation of your findings.
+
+Key Takeaways
+
+- 
+
+Unexpected Results
+
+- 
