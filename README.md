@@ -1,12 +1,12 @@
 # End-to-End-Analysis-Project
 
-Scenario
+<strong>Scenario</strong>
 
 - Find an interesting dataset to work with. Use Python and pandas to explore and ultimately craft analysis for a presentation. 
 
 - Produce visualizations and analysis in Python.
 
-Deliverables
+<strong>Deliverables</strong>
 
 - A one-page proposal.
 
@@ -14,14 +14,14 @@ Deliverables
 
 - A 5-10 minute presentation of your findings.
 
-Process
+<strong>Process</strong>
 
 - 
 
-Key Takeaways
+<strong>Key Takeways</strong>
 
 - 
 
-Unexpected Results
+<strong>Unexpected Results</strong>
 
 - 
