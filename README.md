@@ -13,15 +13,3 @@
 - A Jupyter Notebook that tells a compelling story about your data.
 
 - A 5-10 minute presentation of your findings.
-
-<strong>Process</strong>
-
-- 
-
-<strong>Key Takeways</strong>
-
-- 
-
-<strong>Unexpected Results</strong>
-
-- 
