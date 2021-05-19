@@ -1,4 +1,4 @@
-# End to End Analysis Project
+# End-to-End Analysis Project
 
 <strong>Scenario</strong>
 
